@@ -1,2 +1,4 @@
 # wifiQR
-Create a QR code for WiFi credentials without sending them to a rando website.
+1) Launch the GUI
+2) Enter WiFi credentials
+3) PNG file is generated
